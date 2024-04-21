@@ -10,4 +10,6 @@ Exploratory Data Analysis (EDA): I calculate and display the total number of uni
 
 Visualization of Shopping Behavior: Using matplotlib, I plot the number of visits for the top 10 members who shop the most frequently. This visualization helps in identifying key customers and analyzing their shopping habits.
 
-Advanced Data Analysis: Through using libraries such as kmeans and CPA, I also performed clustering to segment customers and reduced dimensionality for more efficient analysis
+Advanced Data Analysis: Through using libraries such as kmeans and CPA, I also performed clustering to segment customers and reduced dimensionality for more efficient analysis.
+
+Patterns discovered through this analysis assisted in creating an immaginary layout for a grocery store to maximize revenue.
